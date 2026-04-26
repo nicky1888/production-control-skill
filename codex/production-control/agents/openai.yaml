@@ -1,0 +1,5 @@
+interface:
+  display_name: "Production Control"
+  short_description: "Update a Markdown control board and status heatmap"
+  default_prompt: "Use $production-control to scan recent activity and update my production control board."
+

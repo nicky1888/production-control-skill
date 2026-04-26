@@ -1,0 +1,18 @@
+board_path: "examples/Production Control Board.md"
+scan_roots:
+  - "."
+lookback_days: 7
+include_keywords:
+  - report
+  - dashboard
+  - skill
+  - automation
+  - service
+  - release
+  - strategy
+exclude_dirs:
+  - .git
+  - node_modules
+  - .venv
+  - __pycache__
+
